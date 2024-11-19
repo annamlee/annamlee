@@ -1,6 +1,6 @@
 ## Hi there! I'm Anna 👋
 
-I am currently a third year undergraduate student majoring in Computer Science and minoring in Business Economics, with a keen interest in building user-oriented applications and utilizing the curious power of code to solve problems.
+I am currently a third year undergraduate student majoring in Computer Science and minoring in Business Economics. I hold a keen interest in building user-oriented applications and utilizing the curious power of code to solve problems.
 
 When I'm not in the computer world, I enjoy exploring new places, going to concerts, grabbing boba, reading, and playing the guitar!
 
